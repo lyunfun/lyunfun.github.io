@@ -2,10 +2,10 @@
 title: Lyunfun Blog
 SEOTitle: Lyunfun的博客 | Lyunfun Blog
 header-img: img/home-bg.jpg
-email: huxpro@gmail.com
+email: 958540785@qq.com
 description: "Every failure is leading towards success."
 keyword: "Lyunfun, 博客, 个人网站, 互联网, Web, JavaScript, 前端, 设计"
-url: "www.lyunfun.com"              # your host, for absolute URL
+url: "https://www.lyunfun.com/"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -30,7 +30,7 @@ paginate: 10
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md","README.zh.md"]
 anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
 # If you have timezone issue (e.g. #68) in China, uncomment to use this:
-#timezone: CN  
+timezone: CN  
 
 
 
@@ -72,7 +72,7 @@ netease_comment: false
 
 # Google Analytics
 #ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-#ga_domain: lyunfun.com
+ga_domain: lyunfun.com
 
 
 
